@@ -28,6 +28,6 @@ class SS extends StatefulWidget {
 class _SSState extends State<SS> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(body: Center(child: Text("data")));
+    return Scaffold(body: Center(child: Image.asset("rasm/i9.jpg")));
   }
 }
